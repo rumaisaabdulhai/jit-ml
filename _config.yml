@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: JIT ML-101
+description: Website to host content for introductory ML course offered to students at JIT.
 theme: just-the-docs
 
-url: https://rumaisaabdulhai.github.io/jit-ml-website
+url: https://rumaisaabdulhai.github.io/jit-ml
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Visit JIT: https://jit.edu.in/

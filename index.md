@@ -1,35 +1,39 @@
 ---
 title: Home
 layout: home
+nav_order: 1
+description: "An introductory machine learning course for the students of Jahangirabad Institute of Technology"
+permalink: /
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# JIT Machine Learning 101
+{: .fs-9 }
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+A program teaching the fundamentals of machine learning to students at the Jahangirabad Institute of Technology (JIT) in Barabanki district, Uttar Pradesh.<br>
+{: .fs-6 .fw-300 }
 
-More specifically, the created site:
+[Contact Us](mailto:rumaisa@mit.edu){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [JIT Website](https://jit.edu.in/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+---
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## The Course
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+This is a 4-week intensive course designed to provide a comprehensive introduction to the theoretical foundations, practical applications, and implementation of machine learning (ML) and artificial intelligence (AI). This course will equip students with a solid understanding of key ML concepts, algorithms, and architectures while fostering hands-on skills through interactive labs and project work. By the end of the course, students will have explored topics such as supervised learning, deep learning (including CNNs and transformers), reinforcement learning, and special topics like AI safety and robotics.
 
-To get started with creating a site, simply:
+Our curriculum draws inspiration from ML courses at MIT and UC Berkeley, complemented by the instructors' academic, research, and professional experiences. Whether you're looking to deepen your knowledge of ML or start your journey in AI, this course will provide the tools and insights needed to succeed. [Here](https://docs.google.com/document/d/1iiWICADfLh14ev8bhMsBw9Eo3HVfy41S5HNSjZ5a8f0/edit?usp=sharing) is the curriculum for the course.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## Logistics
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Below are the logistics for the program taking place from January 6 to January 30th, 2025.
 
-----
+**Lectures** will take place on Mondays, Tuesdays, Wednesdays, and Thursdays from 9:30 to 11:00 am in the Seminar Hall.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+**Labs** will take place on Mondays, Tuesdays, Wednesdays, and Thursdays from 11:15 am to 12:00 pm in the Computer Lab.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## Requirements
+
+Anyone interested from JIT is free to take this course. We recommend the students have some background in programming, Linear Algebra, and/or Calculus.
+
+## Contact
+
+Please email the course instructors, [Rumaisa Abdulhai](mailto:rumaisa@mit.edu) or [Rose Alsalman](mailto:rosea110@mit.edu), with any questions you have about the program.
