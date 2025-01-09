@@ -26,4 +26,4 @@ The materials used for the course.
 | 1 | Introduction to Machine Learning | [Slides](https://docs.google.com/presentation/d/1XcYCZQmMP1RteiscTAXyNhM9yVLwocvqETe-opKOgFI/edit?usp=sharing)  | [Calculus Review Notes](https://drive.google.com/file/d/1TYGIrBYbEkG0aW--Ke2jJTWQ0C_QNSE3/view?usp=drive_link) / [Calculus Review Problems](https://drive.google.com/file/d/1LXO5PF4ok6JwGL7Egm9yw6eizPkOYiVW/view?usp=drive_link)  |
 | 2 | Python Basics | [Colab](https://colab.research.google.com/drive/1u9s1E6zArMXiHgCXcsXnCb7y8EB44Rtw?usp=drive_link)  | [Colab](https://colab.research.google.com/drive/1_TUeTpJzO2IyKkS7BC0g7tx-moPs-L2d?usp=drive_link)  |
 | 3 | Linear Algebra Review | [Notes](https://drive.google.com/file/d/14sPiIQNh3SNLyXKEM0FhgS0HF-QHs_FB/view?usp=drive_link)  | TBD |
-| 4 | Linear Regression | [Notes](https://docs.google.com/presentation/d/11jmXa-7DNijEhUPVJoG14GhWIwQBW3yY1jgcncdoNxc/edit?usp=sharing)  | TBD |
+| 4 | Linear Regression | [Slides](https://docs.google.com/presentation/d/11jmXa-7DNijEhUPVJoG14GhWIwQBW3yY1jgcncdoNxc/edit?usp=sharing)  | TBD |
