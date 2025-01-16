@@ -32,6 +32,7 @@ The materials used for the course.
 
 ## Python Course Week 2
 From 6.0001 MIT OCW Fall 2016
+
 Two lectures are given per day
 
 | Lecture        | Topic        | Slides/Notes | Lab |
@@ -40,3 +41,5 @@ Two lectures are given per day
 | 2 | Branching and Iteration | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec2/)  | Same as above  |
 | 3 | String Manipulation, Guess and Check, Approximations, Bisection | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec3/)  | [Lab](https://colab.research.google.com/drive/1jbyRzbfN5SxUFG3vRQbIBldtNFfQCDOE?usp=sharing)  |
 | 4 | Decomposition, Abstractions, Functions | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec4/)  | Same as above |
+| 5 | Tuples, Lists, Aliasing, Mutability, Cloning | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec5/)  | [Lab](https://colab.research.google.com/drive/15NnnGuY_0z1f3LHkpPKkYzCtKeK2k4Gz?usp=sharing) |
+| 6 | Recursion, Dictionaries | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec6/)  | Same as above |
