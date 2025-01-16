@@ -21,6 +21,7 @@ The materials used for the course.
 </details>
 
 ## Machine Learning Week 1
+All lecture content has been made from scratch for this course. Some content has been taken from MIT's Machine Learning course (6.036, Spring 2022) offered to undergraduate students.
 
 | Lecture        | Topic        | Slides/Notes | Lab |
 |:-------------|:------------------|:------|:------|
@@ -31,15 +32,17 @@ The materials used for the course.
 
 
 ## Python Course Week 2
-From 6.0001 MIT OCW Fall 2016
+The lecture material for this course is from the Fall 2016 6.0001 lectures at MIT (on MIT OCW website). This is the first course offered to CS majors, run over a period of 6 weeks. We have chosen a subset of lectures so we can fit the content for this course in one week.
 
-Two lectures are given per day
+This course is offered to the first year students at JIT. Two lectures are given per day for a total of 4 days.
 
 | Lecture        | Topic        | Slides/Notes | Lab |
 |:-------------|:------------------|:------|:------|
 | 1 | What is Computation? | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec1/)  | [Lab](https://colab.research.google.com/drive/1kMssAJr16WB58HeJ1E9-TLuazPqTLcth?usp=sharing) |
 | 2 | Branching and Iteration | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec2/)  | Same as above  |
-| 3 | String Manipulation, Guess and Check, Approximations, Bisection | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec3/)  | [Lab](https://colab.research.google.com/drive/1jbyRzbfN5SxUFG3vRQbIBldtNFfQCDOE?usp=sharing)  |
+| 3 | String Manipulation | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec3/)  | [Lab](https://colab.research.google.com/drive/1jbyRzbfN5SxUFG3vRQbIBldtNFfQCDOE?usp=sharing)  |
 | 4 | Decomposition, Abstractions, Functions | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec4/)  | Same as above |
 | 5 | Tuples, Lists, Aliasing, Mutability, Cloning | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec5/)  | [Lab](https://colab.research.google.com/drive/15NnnGuY_0z1f3LHkpPKkYzCtKeK2k4Gz?usp=sharing) |
-| 6 | Recursion, Dictionaries | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec6/)  | Same as above |
+| 6 | Recursion | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec6/)  | Same as above |
+| 7 | Dictionaries & Guess and Check, Approximations, Bisection | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec6/) and [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec3/) | TBD |
+| 8 | Object Oriented Programming | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec8/) | Same as above |
