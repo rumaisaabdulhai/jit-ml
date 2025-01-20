@@ -47,7 +47,9 @@ This course is offered to the first year students at JIT. Two lectures are given
 | 7 | Dictionaries & Guess and Check, Approximations, Bisection | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec6/) and [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec3/) | [Lab](https://colab.research.google.com/drive/1VGp0FIgxdtXuZ_RXPqoevmYueqobD9MA?usp=sharing) |
 | 8 | Object Oriented Programming | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec8/) | Same as above |
 
-## Machine Learning Course Week 3
+The descriptions for the Python final projects can be viewed in this [Colab notebook](https://colab.research.google.com/drive/177uKAzagdsMM-vIBc4eaQnlMa7h62UY8?usp=sharing).
+
+## ML Course Week 3
 
 | Lecture        | Topic        | Slides/Notes | Lab |
 |:-------------|:------------------|:------|:------|
