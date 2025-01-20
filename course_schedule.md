@@ -46,3 +46,13 @@ This course is offered to the first year students at JIT. Two lectures are given
 | 6 | Recursion | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec6/)  | Same as above |
 | 7 | Dictionaries & Guess and Check, Approximations, Bisection | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec6/) and [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec3/) | [Lab](https://colab.research.google.com/drive/1VGp0FIgxdtXuZ_RXPqoevmYueqobD9MA?usp=sharing) |
 | 8 | Object Oriented Programming | [Slides](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec8/) | Same as above |
+
+## Machine Learning Course Week 3
+
+| Lecture        | Topic        | Slides/Notes | Lab |
+|:-------------|:------------------|:------|:------|
+| 1 | Linear Regression | [Slides](https://docs.google.com/presentation/d/18pzRRdrY_7gOW4TfFn3zMEySGsHS7hpLeyG0W2ka1VE/edit?usp=sharing)  | [Student Copy](https://colab.research.google.com/drive/1wJT0BGzwZToG8SDQpdo9_5R6ZSLNifGQ?usp=drive_link) |
+| 2 | Introduction to Numpy | [Documentation](https://numpy.org/doc/stable/user/absolute_beginners.html)  | Same as above  |
+| 3 | Gradient Descent | TBD | TBD |
+| 4 | Logistic Regression | TBD | TBD |
+
