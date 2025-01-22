@@ -53,8 +53,9 @@ The descriptions for the Python final projects can be viewed in this [Colab note
 
 | Lecture        | Topic        | Slides/Notes | Lab |
 |:-------------|:------------------|:------|:------|
-| 1 | Linear Regression | [Slides](https://docs.google.com/presentation/d/18pzRRdrY_7gOW4TfFn3zMEySGsHS7hpLeyG0W2ka1VE/edit?usp=sharing)  | [Student Copy](https://colab.research.google.com/drive/1wJT0BGzwZToG8SDQpdo9_5R6ZSLNifGQ?usp=drive_link) |
+| 1 | Linear Regression | [Slides](https://docs.google.com/presentation/d/18pzRRdrY_7gOW4TfFn3zMEySGsHS7hpLeyG0W2ka1VE/edit?usp=sharing)  | [Student Copy](https://colab.research.google.com/drive/1wJT0BGzwZToG8SDQpdo9_5R6ZSLNifGQ?usp=drive_link) / [Solution](https://colab.research.google.com/drive/1ULo5mnSiOipoyuQmqR5vU0eYWGPCHuAQ?usp=sharing) |
 | 2 | Introduction to Numpy | [Documentation](https://numpy.org/doc/stable/user/absolute_beginners.html)  | Same as above  |
 | 3 | Gradient Descent | TBD | TBD |
-| 4 | Logistic Regression | TBD | TBD |
-
+| 4 | Logistic Regression | [Slides](https://tamarabroderick.com/files/ml_6036_2020_lectures/broderick_lecture_04.pdf) (used Spring 2022 lecture) | TBD |
+| 5 | Neural Networks | TBD | TBD |
+| 6 | Convolutional Neural Networks | TBD | TBD |
