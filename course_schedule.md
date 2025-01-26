@@ -58,4 +58,9 @@ The descriptions for the Python final projects can be viewed in this [Colab note
 | 3 | Gradient Descent | [Slides](https://github.com/rumaisaabdulhai/jit-ml/blob/main/GD_Presentation.pdf) | [Student Copy](https://colab.research.google.com/drive/1jOOfDPqH5VSyR4rEezRSqYS4Gw7AAJh9?usp=sharing) |
 | 4 | Logistic Regression | [Slides](https://tamarabroderick.com/files/ml_6036_2020_lectures/broderick_lecture_04.pdf) (used Spring 2022 lecture) | Same as above |
 | 5 | Neural Networks | [Slides](https://tamarabroderick.com/files/ml_6036_2020_lectures/broderick_lecture_06.pdf) | Worked on previous lab |
-| 6 | Convolutional Neural Networks | TBD | TBD |
+| 6 | Convolutional Neural Networks | [Slides](https://tamarabroderick.com/files/ml_6036_2020_lectures/broderick_lecture_08.pdf) | [Demonstration Lab](https://colab.research.google.com/drive/1gALO1Bs78DPT7pqc-G_jRI2_U8PVnKVh?usp=sharing) |
+
+The descriptions for the Python final projects can be viewed in this [Colab notebook](https://colab.research.google.com/drive/1a67ang-zcwIyefkga--VIkfxo9wV64ed?usp=sharing).
+The notebook for the Linear regression datasets can be found [here](https://colab.research.google.com/drive/19pPcqUNiHPht0ElFl7W8zuSvBunlQiLi?usp=sharing).
+The notebook for Logistic regression datasets can be found [here](https://colab.research.google.com/drive/1uwHSsIttZXD0SLVPg_deDzc5C2CHNg5A?usp=sharing).
+The notebook for the CNN datasets can be found [here](https://colab.research.google.com/drive/1YKjAwJz_A3e2zoC7LbKpPn82cIjgKwBi?usp=sharing).
