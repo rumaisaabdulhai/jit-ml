@@ -50,15 +50,20 @@ This course is offered to the first year students at JIT. Two lectures are given
 The descriptions for the Python final projects can be viewed in this [Colab notebook](https://colab.research.google.com/drive/177uKAzagdsMM-vIBc4eaQnlMa7h62UY8?usp=sharing).
 
 ## ML Course Week 3
+The lecture material for this course is from the Spring 2022 and Fall 2020 6.036/6.3900 lectures at MIT. We have chosen a subset of lectures so we can fit the content for this course in one week.
 
-| Lecture        | Topic        | Slides/Notes | Lab |
-|:-------------|:------------------|:------|:------|
-| 1 | Linear Regression | [Slides](https://docs.google.com/presentation/d/18pzRRdrY_7gOW4TfFn3zMEySGsHS7hpLeyG0W2ka1VE/edit?usp=sharing)  | [Student Copy](https://colab.research.google.com/drive/1wJT0BGzwZToG8SDQpdo9_5R6ZSLNifGQ?usp=drive_link) / [Solution](https://colab.research.google.com/drive/1ULo5mnSiOipoyuQmqR5vU0eYWGPCHuAQ?usp=sharing) |
-| 2 | Introduction to Numpy | [Documentation](https://numpy.org/doc/stable/user/absolute_beginners.html)  | Same as above  |
-| 3 | Gradient Descent | [Slides](https://github.com/rumaisaabdulhai/jit-ml/blob/main/GD_Presentation.pdf) | [Student Copy](https://colab.research.google.com/drive/1jOOfDPqH5VSyR4rEezRSqYS4Gw7AAJh9?usp=sharing) |
-| 4 | Logistic Regression | [Slides](https://tamarabroderick.com/files/ml_6036_2020_lectures/broderick_lecture_04.pdf) (used Spring 2022 lecture) | Same as above |
-| 5 | Neural Networks | [Slides](https://tamarabroderick.com/files/ml_6036_2020_lectures/broderick_lecture_06.pdf) | Worked on previous lab |
-| 6 | Convolutional Neural Networks | [Slides](https://tamarabroderick.com/files/ml_6036_2020_lectures/broderick_lecture_08.pdf) | [Demonstration Lab](https://colab.research.google.com/drive/1gALO1Bs78DPT7pqc-G_jRI2_U8PVnKVh?usp=sharing) |
+This course is offered to the third and fourth year students at JIT. Two lectures are given per day for a total of 4 days.
+
+If you missed any lectures in person or want to learn more, please watch Tamara Broderick's online lectures on YouTube [here](https://youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV&feature=shared). The slides and lectures side by side can be seen [here](http://tamarabroderick.com/ml.html).
+
+| Lecture        | Topic        | Slides/Notes | Lab | Recommended Reading |
+|:-------------|:------------------|:------|:------|:------|
+| 1 | Linear Regression | [Slides](https://docs.google.com/presentation/d/18pzRRdrY_7gOW4TfFn3zMEySGsHS7hpLeyG0W2ka1VE/edit?usp=sharing)  | [Student Copy](https://colab.research.google.com/drive/1wJT0BGzwZToG8SDQpdo9_5R6ZSLNifGQ?usp=drive_link) / [Solution](https://colab.research.google.com/drive/1ULo5mnSiOipoyuQmqR5vU0eYWGPCHuAQ?usp=sharing) | [Introduction](https://introml.mit.edu/_static/spring24/LectureNotes/chapter_Introduction.pdf) / [Regression](https://introml.mit.edu/_static/spring24/LectureNotes/chapter_Regression.pdf)
+| 2 | Introduction to Numpy | [Documentation](https://numpy.org/doc/stable/user/absolute_beginners.html)  | Same as above  | N/A |
+| 3 | Gradient Descent | [Slides](https://github.com/rumaisaabdulhai/jit-ml/blob/main/GD_Presentation.pdf) | [Student Copy](https://colab.research.google.com/drive/1jOOfDPqH5VSyR4rEezRSqYS4Gw7AAJh9?usp=sharing) | [Gradient Descent](https://introml.mit.edu/_static/spring24/LectureNotes/chapter_Gradient_Descent.pdf) |
+| 4 | Logistic Regression | [Slides](https://tamarabroderick.com/files/ml_6036_2020_lectures/broderick_lecture_04.pdf) (used Spring 2022 lecture) | Same as above | [Logistic Regression](https://introml.mit.edu/_static/spring24/LectureNotes/chapter_Classification.pdf) |
+| 5 | Neural Networks | [Slides](https://tamarabroderick.com/files/ml_6036_2020_lectures/broderick_lecture_06.pdf) | Worked on previous lab | [Neural Networks](https://introml.mit.edu/_static/spring24/LectureNotes/chapter_Neural_Networks.pdf) |
+| 6 | Convolutional Neural Networks | [Slides](https://tamarabroderick.com/files/ml_6036_2020_lectures/broderick_lecture_08.pdf) | [Demonstration Lab](https://colab.research.google.com/drive/1gALO1Bs78DPT7pqc-G_jRI2_U8PVnKVh?usp=sharing) | [CNNs](https://introml.mit.edu/_static/spring24/LectureNotes/chapter_Convolutional_Neural_Networks.pdf) |
 
 The descriptions for the Python final projects can be viewed in this [Colab notebook](https://colab.research.google.com/drive/1a67ang-zcwIyefkga--VIkfxo9wV64ed?usp=sharing).
 The notebook for the Linear regression datasets can be found [here](https://colab.research.google.com/drive/19pPcqUNiHPht0ElFl7W8zuSvBunlQiLi?usp=sharing).
