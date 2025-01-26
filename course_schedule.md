@@ -65,7 +65,7 @@ If you missed any lectures in person or want to learn more, please watch Tamara 
 | 5 | Neural Networks | [Slides](https://tamarabroderick.com/files/ml_6036_2020_lectures/broderick_lecture_06.pdf) | Worked on previous lab | [Neural Networks](https://introml.mit.edu/_static/spring24/LectureNotes/chapter_Neural_Networks.pdf) |
 | 6 | Convolutional Neural Networks | [Slides](https://tamarabroderick.com/files/ml_6036_2020_lectures/broderick_lecture_08.pdf) | [Demonstration Lab](https://colab.research.google.com/drive/1gALO1Bs78DPT7pqc-G_jRI2_U8PVnKVh?usp=sharing) | [CNNs](https://introml.mit.edu/_static/spring24/LectureNotes/chapter_Convolutional_Neural_Networks.pdf) |
 
-The descriptions for the Python final projects can be viewed in this [Colab notebook](https://colab.research.google.com/drive/1a67ang-zcwIyefkga--VIkfxo9wV64ed?usp=sharing).
+The descriptions for the ML final projects can be viewed in this [Colab notebook](https://colab.research.google.com/drive/1a67ang-zcwIyefkga--VIkfxo9wV64ed?usp=sharing).
 The notebook for the Linear regression datasets can be found [here](https://colab.research.google.com/drive/19pPcqUNiHPht0ElFl7W8zuSvBunlQiLi?usp=sharing).
 The notebook for Logistic regression datasets can be found [here](https://colab.research.google.com/drive/1uwHSsIttZXD0SLVPg_deDzc5C2CHNg5A?usp=sharing).
 The notebook for the CNN datasets can be found [here](https://colab.research.google.com/drive/1YKjAwJz_A3e2zoC7LbKpPn82cIjgKwBi?usp=sharing).
